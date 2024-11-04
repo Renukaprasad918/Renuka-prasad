@@ -1,1 +1,18 @@
-gjiuiufnjke
+git config --global user.name "Renukaprasad918"
+git config --global user.email "rprasadbh31@gmail.com"
+git clone https://github.com/Renukaprasad918/Renuka-prasad.git
+for changing the directory ->cd- folder_name;
+to list the files the command is ->ls;
+
+git add filename.txt
+
+git add .
+
+git commit -m "first commit"
+
+
+git push origin main
+
+git pull origin main
+
+google meet code : vus-rebp-zrf
